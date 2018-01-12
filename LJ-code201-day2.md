@@ -4,4 +4,8 @@ Today we learned about Arrays, if/else statements and whole ot of other things. 
 
 # Learning Journal Day 3
 
-Day 3 was much tougher. Did ot feel confident at all. We learned about arrays and loops. I have an understanding but not able to execute this effectively. Need more practice.
+Day 3 was much tougher. Did not feel confident at all. We learned about arrays and loops. I have an understanding but not able to execute this effectively. Need more practice.
+
+# Learning Journal Day 4
+
+Day 4 was much smoother. The Loops and arrays started to make more sense and I was able to clean up my code much better. We learned functions in class and after applying functions to my code in Pair Programming, they still worked as intended. Yay!
