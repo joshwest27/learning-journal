@@ -13,3 +13,7 @@ Day 4 was much smoother. The Loops and arrays started to make more sense and I w
 #Learning Journal Day 5
 
 Day 5 was fairly smooth up until lab5. It was difficult to figure out how to work a couple of the problems. I ended up finishing with a fair amount of time left but not before questioning whether I belong in web development. I definitely felt the imposter syndrome the instructors mentioned in orientation. I feel really good today and after the weekend I know I will be recharged and ready for week 2. 
+
+#Learning Journal Day 6
+
+Day 6 was tougher. Workload is getting pretty heavy. Definitly dont want to fall behind. I finished up the js for Lab 6 and added some CSS. Need much more practice on this. Feel very lost when trying to move stuff on the page. Will continue to read up on this. 
