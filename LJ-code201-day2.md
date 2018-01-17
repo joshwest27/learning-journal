@@ -17,3 +17,7 @@ Day 5 was fairly smooth up until lab5. It was difficult to figure out how to wor
 #Learning Journal Day 6
 
 Day 6 was tougher. Workload is getting pretty heavy. Definitly dont want to fall behind. I finished up the js for Lab 6 and added some CSS. Need much more practice on this. Feel very lost when trying to move stuff on the page. Will continue to read up on this. 
+
+#Learning Journal Day 7
+
+Day 7 was a little harder because I forgot my laptop at home and had to swing by my work to pick up my work laptop. I managed to get everything in working order. The Lab was defintely tough. I couldnt really wrap my head aroung the concept of constructors. It wasnt until my bus ride home that it clicked. I worked a couple more hours at home to tidy everthing up. still a couple more tweaks on the code, but very happy with how its all working now. 
