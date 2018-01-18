@@ -21,3 +21,7 @@ Day 6 was tougher. Workload is getting pretty heavy. Definitly dont want to fall
 #Learning Journal Day 7
 
 Day 7 was a little harder because I forgot my laptop at home and had to swing by my work to pick up my work laptop. I managed to get everything in working order. The Lab was defintely tough. I couldnt really wrap my head aroung the concept of constructors. It wasnt until my bus ride home that it clicked. I worked a couple more hours at home to tidy everthing up. still a couple more tweaks on the code, but very happy with how its all working now. 
+
+#Learning Journal Day 8
+
+Day 8 wasnt too tough as far as new content. still having a hard time wrapping my head around table rows. My code seems to be coming together great but adding the totals to the bottom of the table is a little more difficult. Also need to continue learing CSS. Practice makes perfect. 
