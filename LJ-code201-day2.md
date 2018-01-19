@@ -25,3 +25,7 @@ Day 7 was a little harder because I forgot my laptop at home and had to swing by
 #Learning Journal Day 8
 
 Day 8 wasnt too tough as far as new content. still having a hard time wrapping my head around table rows. My code seems to be coming together great but adding the totals to the bottom of the table is a little more difficult. Also need to continue learing CSS. Practice makes perfect. 
+
+#Learning Journal Day 9
+
+Day 9 was alright. I cant figure out the footer so I am not going to spend any more time on it. 2 days of trying to figure it out is not a good use of time. All the other elements seem to work well. Overall its going well. 
