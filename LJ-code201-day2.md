@@ -29,3 +29,7 @@ Day 8 wasnt too tough as far as new content. still having a hard time wrapping m
 #Learning Journal Day 9
 
 Day 9 was alright. I cant figure out the footer so I am not going to spend any more time on it. 2 days of trying to figure it out is not a good use of time. All the other elements seem to work well. Overall its going well. 
+
+#Learning Journal Day 10
+
+I enjoyed lab today. we were given a printout of a website that we needed to construct in 4 hours. That was challenging but fun. It was much easier than I thought it would be. The cookie-stand is still giving me trouble. Not sure why I cannot figure out the footer.
