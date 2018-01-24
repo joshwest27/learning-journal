@@ -37,3 +37,7 @@ I enjoyed lab today. we were given a printout of a website that we needed to con
 #Learning Journal Day 11
 
 Today was pretty straight forward as far as understanding the lab. A lot of it seemed familiar since we have covered some of it in other labs. I was able to finish most of the Lab in a timely manner. Just need to tweek some things to get all of the pieces working together. Should be complete by tomorrow. 
+
+#Learning Journal Day 12
+
+I enjoyed todays Lab. It had its challenging moments but I was able to complete this in a timely manner. It was a bit easier since we implemented some of the tools we used from the previous lab. Remembering all the tiny pieces seem to be the toughest part. Sometimes just the most minor detail can make your entire code seem broken. Its always refresing to figure it out and see the code run. Need more days like that.
