@@ -41,3 +41,7 @@ Today was pretty straight forward as far as understanding the lab. A lot of it s
 #Learning Journal Day 12
 
 I enjoyed todays Lab. It had its challenging moments but I was able to complete this in a timely manner. It was a bit easier since we implemented some of the tools we used from the previous lab. Remembering all the tiny pieces seem to be the toughest part. Sometimes just the most minor detail can make your entire code seem broken. Its always refresing to figure it out and see the code run. Need more days like that.
+
+#Learning Journal Day 13
+
+Lab was tough today. I understood the concept but couldnt quite make it work for quite sometime. I had to get a lot of assistance today which is a bit frustrating since I couldnt figure it out on my own. Local storage seemed simple in the demo but lining everything up was much more difficult. With more practice I should have a better understanding. 
