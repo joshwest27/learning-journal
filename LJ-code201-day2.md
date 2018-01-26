@@ -45,3 +45,7 @@ I enjoyed todays Lab. It had its challenging moments but I was able to complete 
 #Learning Journal Day 13
 
 Lab was tough today. I understood the concept but couldnt quite make it work for quite sometime. I had to get a lot of assistance today which is a bit frustrating since I couldnt figure it out on my own. Local storage seemed simple in the demo but lining everything up was much more difficult. With more practice I should have a better understanding. 
+
+#Learning Journal Day 14
+
+Day 14 was short for me. I had an appointment up in Marysville so I wasnt there for the lecture. I was able to watch the video recording of the lecture and I do love the animation aspect of coding. Lab was a bit tougher as my group had some merge conflicts that slowed us down quite a bit. Overall I am happy where I am at in this class and look forward to learning more. 
