@@ -49,3 +49,7 @@ Lab was tough today. I understood the concept but couldnt quite make it work for
 #Learning Journal Day 14
 
 Day 14 was short for me. I had an appointment up in Marysville so I wasnt there for the lecture. I was able to watch the video recording of the lecture and I do love the animation aspect of coding. Lab was a bit tougher as my group had some merge conflicts that slowed us down quite a bit. Overall I am happy where I am at in this class and look forward to learning more. 
+
+#Learning Journal Day 15
+
+Day 15 was pretty low key. Had code reviews and went over whats expected in Project week. Very excited for that. Overall 201 has been great. I have learned so much in such a short time. Very excited for whats to come in 301.
